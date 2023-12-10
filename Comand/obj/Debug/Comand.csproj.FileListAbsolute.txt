@@ -1,0 +1,6 @@
+D:\Курс_II\ООАиП\Comand\Comand\bin\Debug\Comand.dll
+D:\Курс_II\ООАиП\Comand\Comand\bin\Debug\Comand.pdb
+D:\Курс_II\ООАиП\Comand\Comand\obj\Debug\Comand.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\Comand\Comand\obj\Debug\Comand.csproj.CoreCompileInputs.cache
+D:\Курс_II\ООАиП\Comand\Comand\obj\Debug\Comand.dll
+D:\Курс_II\ООАиП\Comand\Comand\obj\Debug\Comand.pdb
